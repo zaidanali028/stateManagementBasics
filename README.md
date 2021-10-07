@@ -1,6 +1,6 @@
-# my_virtual_Fluttercard
+# A simple app that dynamically changes the states of images with flutter StateFul Widget
 
-Simple Flutter card with my personal details
+
 
 ## Still New To Flutter And The Journey Has Been Awesome So Far
 
